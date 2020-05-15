@@ -4,7 +4,7 @@
   <img src="/imgs/UNIPD-Mask.png" width="300">
 </p>
 <p align="center">
-  Fig. 1 - UNIPD-Mask draw
+  Fig. 1 - Disegno della UNIPD-Mask / UNIPD-Mask draw
 </p>
 
 
@@ -29,7 +29,7 @@ gratuitamente scaricabili e replicabili.
   <img src="/imgs/UNIPD-Mask_Real.png" width="300">
 </p>
 <p align="center">
-  Fig. 1 - UNIPD-Mask real picture
+  Fig. 2 - Foto reale della UNIPD-Mask / UNIPD-Mask real picture
 </p>
 
 L’invenzione proposta segue l’idea di Isinnova SRL (Brescia, Italia) nello sviluppo della valvola [*Charlotte*](https://www.isinnova.it/easy-covid19/) e ne va a risolvere il problema legato alla sezione limitata dei
