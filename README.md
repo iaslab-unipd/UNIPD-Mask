@@ -4,7 +4,7 @@
   <img src="/imgs/UNIPD-Mask.png" width="300">
 </p>
 <p align="center">
-  Fig. 1 - UNIPD-Mask
+  Fig. 1 - UNIPD-Mask draw
 </p>
 
 
@@ -20,10 +20,17 @@ aeree degli stessi, li sottopone ad un flusso d’aria a pressione positiva cost
 capacità respiratorie. Ne deriva l’assoluta necessità di approvvigionamento di dispositivi C-PAP che ha
 portato allo sviluppo di soluzioni alternative.
 
-Il Dipartimento di Ingegneria dell´Informazione e il Dipartimento di Medicina dell´Università di Padova (Italia) hanno sviluppato *UNIPD-Mask* (vedi Fig. 1): un set di valvole che permette di
+Il Dipartimento di Ingegneria dell´Informazione e il Dipartimento di Medicina dell´Università di Padova (Italia) hanno sviluppato *UNIPD-Mask* (vedi Fig. 1 e 2): un set di valvole che permette di
 convertire la maschera da snorkeling *EasyBreath* di Decathlon in una maschera C-PAP (domanda di
 brevetto n. **IT 102020000008305**). Questa repository raccoglie i modelli 3D dei pezzi sviluppati. Essi sono
 gratuitamente scaricabili e replicabili.
+
+<p align="center">
+  <img src="/imgs/UNIPD-Mask_Real.png" width="300">
+</p>
+<p align="center">
+  Fig. 1 - UNIPD-Mask real picture
+</p>
 
 L’invenzione proposta segue l’idea di Isinnova SRL (Brescia, Italia) nello sviluppo della valvola [*Charlotte*](https://www.isinnova.it/easy-covid19/) e ne va a risolvere il problema legato alla sezione limitata dei
 condotti di ingresso e di uscita dell’aria: durante l'inspirazione i sistemi dotati di valvola "Charlotte" non
@@ -55,7 +62,7 @@ of patients with respiratory difficulties, such as COVID-19 ones, and can potent
 to intensive care. Through an airtight connection with patients' airways, C-PAP devices create a constant
 positive pressure airflow while improving the patients breathing capacity. As a result, it is absolutely necessary to supply C-PAP devices, and this need led to the development of alternative solutions.
 
-The Department of Information Engineering and the Department of Medicine of the University of Padova (Italy) developed *UNIPD-Mask* (see Fig. 1): a set of valves that allows converting *EasyBreath*, the snorkeling mask developed and marketed by Decathlon, into a C-PAP mask (patent pendant n. **IT 1020200008305**). This repository collects 3D models of the developed parts. They are freely accessible and replicable. 
+The Department of Information Engineering and the Department of Medicine of the University of Padova (Italy) developed *UNIPD-Mask* (see Fig. 1 and 2): a set of valves that allows converting *EasyBreath*, the snorkeling mask developed and marketed by Decathlon, into a C-PAP mask (patent pendant n. **IT 1020200008305**). This repository collects 3D models of the developed parts. They are freely accessible and replicable. 
 
 The proposed invention follows the idea of Isinnova SRL (Brescia, Italy) in the development of [*Charlotte*](https://www.isinnova.it/easy-covid19/) and solves *Charlotte* problems related to the limited section of its
 air inlet and outlet ducts: during inhalation, systems equipped with *Charlotte* valve are not able to
