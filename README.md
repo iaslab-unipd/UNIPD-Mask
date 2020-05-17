@@ -38,13 +38,13 @@ sono in grado di compensare il volume d'aria inspirato dal paziente, risultando 
 Inoltre, durante l'espirazione, tale configurazione non permette una veloce evacuazione dell'aria,
 provocando una sensazione di fatica nel paziente. *UNIPD-Mask*, sfruttando un doppio canale per il flusso
 d’aria in ingresso, è in grado invece di fornire un apporto di volume maggiore di aria al paziente, senza cali
-di pressione interna alla maschera in fase di inspirazione (vedi Fig. 2).
+di pressione interna alla maschera in fase di inspirazione (vedi Fig. 3).
 
 <p align="center">
   <img src="/imgs/comparison.png" width="400">
 </p>
 <p align="center">
-  Fig. 2 - Confronto tra <i> Charlotte </i> (blu) e <i> UNIPD-Mask </i> (rosso) in termini di variazione di pressione / Comparison between
+  Fig. 3 - Confronto tra <i> Charlotte </i> (blu) e <i> UNIPD-Mask </i> (rosso) in termini di variazione di pressione / Comparison between
 <i> Charlotte </i> (blue) and <i> UNIPD-Mask </i> (red) in terms of pressure variation
 </p>
 
@@ -70,7 +70,7 @@ compensate the volume of air inhaled by the patient, resulting in a pressure dro
 exhalation, this configuration does not allow for rapid air evacuation, causing a feeling of fatigue in the
 patient. *UNIPD-Mask*, using a double-channel for the incoming airflow, is instead able to provide a
 greater volume of air to the patient, without a drop in pressure inside the mask during inhalation (see
-Fig. 2).
+Fig. 3).
 
 Finally, *UNIPD-Mask* adds an anti-suffocation valve which, in the event of an accidental interruption of
 air and oxygen flow, allows the patient to continue breathing. It is also possible to connect an outgoing air
