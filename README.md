@@ -75,3 +75,13 @@ Fig. 3).
 Finally, *UNIPD-Mask* adds an anti-suffocation valve which, in the event of an accidental interruption of
 air and oxygen flow, allows the patient to continue breathing. It is also possible to connect an outgoing air
 filter.
+
+---
+
+**Riferimenti / References**:
+
+F. Zarantonello, P. Persona, I. Valeri, S. Savino, L. Tagliapietra, E. Tosello, E. Menegatti (1), P. Navalesi (1). *Repurposing a snorkeling mask as an emergency C-PAP mask in COVID-19: performance assessment and improvement proposal*. Respiratory Care, Journal of. *Under submission*.
+
+(1) Equal contribution
+
+
