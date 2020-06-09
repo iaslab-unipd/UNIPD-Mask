@@ -26,7 +26,7 @@ brevetto n. **IT 102020000008305**). Questa repository raccoglie i modelli 3D de
 gratuitamente scaricabili e replicabili.
 
 <p align="center">
-  <img src="/imgs/UNIPD-Mask_Real.png" width="300">
+  <img src="/imgs/maschera_scontorno.jpg" width="700">
 </p>
 <p align="center">
   Fig. 2 - Foto reale della UNIPD-Mask / UNIPD-Mask real picture
